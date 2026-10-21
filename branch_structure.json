@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1319-cover-withdraw-behavior-in-examples-reentrancy",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1319-cover-withdraw-behavior-in-examples-reentrancy": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1319-cover-withdraw-behavior-in-examples-reentrancy",
+    "origin"
+  ]
+}
